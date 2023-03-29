@@ -2,7 +2,7 @@
 
 /**
 
- * handle_print - Prints an argument based on its type
+ * handle_print - Prints type based argument
 
  * @fmt: Formatted string in which to print the arguments.
 
