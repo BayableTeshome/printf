@@ -9,7 +9,7 @@
 
  *
 
- * Return: 1 if c is printable, 0 otherwise
+ * Return: if c is printable return 1, otherwise return 0
 
  */
 
