@@ -9,7 +9,7 @@
 
  * @c: char types.
 
- * @buffer: Buffer array to handle print
+ * @buffer: Buffer array to handle print.
 
  * @flags:  Calculates active flags.
 
@@ -88,7 +88,7 @@ int handle_write_char(char c, char buffer[],
 
  * write_number - Prints a string
 
- * @is_negative: Lista of arguments
+ * @is_negative: Lista of arguments.
 
  * @ind: char types.
 
