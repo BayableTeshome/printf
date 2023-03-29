@@ -5,7 +5,7 @@
 
 /**
 
- * print_pointer - Prints the value of a pointer variable
+ * print_pointer - Prints the value of a pointer variable.
 
  * @types: List a of arguments
 
@@ -100,7 +100,7 @@ int print_pointer(va_list types, char buffer[],
 
 /**
 
- * print_non_printable - Prints ascii codes in hexa of non printable chars
+ * print_non_printable - Prints ascii codes in hexa of non printable chars.
 
  * @types: Lista of arguments
 
